@@ -1,0 +1,26 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "LIRI is a command line node app that takes in parameters and gives you back data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunWorks/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaunWorks/LIRI/issues"
+  },
+  "homepage": "https://github.com/ShaunWorks/LIRI#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0"
+  }
+}
